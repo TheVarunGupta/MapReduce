@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <div>
-  <h1>Question I</h1>
+  <h2>Intro to Hadoop and MapReduce - Udacity</h2>
+  <p>Link to the course-- </p><p><a href="https://classroom.udacity.com/courses/ud617">https://classroom.udacity.com/courses/ud617</a></p>
+  <p>The codes in this repo are only related to the project section in the course of the udacity and are meant to help people who are not able to solve the problems.</p>
+  <h3>Question I</h1>
   <hr>
   <p>The three questions about this data set are:</p>
   <ul>
@@ -12,7 +15,7 @@
 <div>
   <div>
     <div>
-      <h1>Question II</h1>
+      <h3>Question II</h1>
       <hr>
       <p>The data set we're using is an anonymized Web server log file from a public relations company whose clients were DVD distributors. The log file is in the udacity_training/data directory, and it's currently compressed using GnuZip. So you'll need to decompress it and then put it in HDFS. If you take a look at the file, you'll see that each line represents a hit to the Web server. It includes the IP address which accessed the site, the date and time of the access, and the name of the page which was visited.</p>
       <p>The logfile is in <a target="_blank" href="http://en.wikipedia.org/wiki/Common_Log_Format">Common Log Format</a>:</p>
